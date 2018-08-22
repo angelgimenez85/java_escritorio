@@ -1,0 +1,4 @@
+angel|Angel|Giménez|pass|1
+lita|Liliana|Fernández|123|2
+ruben|Rubén|Paredes|123|2
+alvaro|Álvaro Raúl|Llaneros|123|1

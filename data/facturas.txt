@@ -1,0 +1,14 @@
+1|1|1|Alfredo Pozo|17/01/2018
+2|1|Coca Cola xLt.|58|1|58
+2|2|Pan x kg.|30|2|60
+2|3|Queso barra|50|3|150
+1|2|2|Agustín Rivera|17/01/2018
+2|4|Manteca Tregar|34|2|68
+2|3|Queso barra|50|2|100
+1|3|3|Roberto Enrique|18/01/2018
+2|2|Pan x kg.|30|2|60
+2|1|Coca Cola xLt.|58|4|232
+2|3|Queso barra|50|5|250
+1|4|5|Isabel Andrea Leiva Saravia|18/01/2018
+2|4|Manteca Tregar|34|1|34
+2|2|Pan x kg.|30|3|90

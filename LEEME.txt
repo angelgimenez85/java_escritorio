@@ -1,0 +1,1 @@
+Cambirar los valores de acceso a la base de datos en config/db_config.properties

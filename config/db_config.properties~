@@ -1,0 +1,4 @@
+driver=com.mysql.jdbc.Driver
+database=jdbc:mysql://localhost/facturacion
+user=root
+password=3482508685

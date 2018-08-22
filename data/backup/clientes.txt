@@ -1,0 +1,4 @@
+1|1|Alfredo|Pozo|Talcahuano 224|4257878|1|1985/01/12|2015/01/14
+2|3|Agustín|Rivera|Guirnalda 324|342 34466|2|1980/01/02|2014/05/10
+3|2|Roberto|Enrique|La Miríada 342|5877878|3|1978/02/15|2015/11/12
+4|1|Raúl Ernesto|Pérez Izauza|Pueyrredón 234|4234234|1|1952/04/18|2018/06/13

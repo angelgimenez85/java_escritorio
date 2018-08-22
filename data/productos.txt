@@ -1,0 +1,8 @@
+1|Coca Cola xLt.|58|1| Producto en oferta hasta marzo.
+2|Pan x kg.|30|0|Producto del día
+3|Queso barra|50|2|Lácteos solari
+4|Manteca Tregar|34|1|Productos de elaboración
+5|Cacao Quilla x 1Kg|68|1|
+6|Azúcar Chango|45|2|
+7|Mostaza |52|0|
+8|Papas|36|1|
